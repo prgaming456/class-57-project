@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+.profile{
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome{
+    height: 800px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    background: linear-gradient(black 0%, green 100%);
+    color: white;
+}
+h1{
+    font-size:40px;
+    font-weight: 300;
+    color: darkgreen;
+}
+h2{
+    font-size: 25px;
+    font-weight: 200;
+    color: darkblue;
+}
+#name{
+    font-size: 50px;
+    color: crimson;
+}
+.line{
+    width:70px;
+    background-color:black;
+    height: 6px;
+    margin: 8px auto;
+}
